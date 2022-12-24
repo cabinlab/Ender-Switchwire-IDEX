@@ -34,7 +34,7 @@ Conversion of Ender 3 Pro/V2 to a Customized Voron Switchwire. Since most of the
 
 ## IDEX Notes
 ***Status: WIP to assess adapted kinematics between Dual Markforged, haqXY, coreXYU, etc.***
-Discussion of (IDEX Kinematics)[https://bench.cabinlab.io/t/adapting-corexy-kinematics-to-corexz-for-switchwire-idex/70] at the Cabinlab Test Bench
+Discussion of [IDEX Kinematics](https://bench.cabinlab.io/t/adapting-corexy-kinematics-to-corexz-for-switchwire-idex/70) at the Cabinlab Test Bench
 
 
 
