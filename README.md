@@ -20,7 +20,6 @@ Conversion of Ender 3 Pro/V2 to a Customized Voron Switchwire. Since most of the
 
 ## Design by boubounokefalos ***prior to modifications and IDEX***
 ![Home](Images/non_enclosed.png)
-![Home](Images/real.png)
 
 ## Major Changes
 * Increase print bed to 400mm x 600mm (using two 400 x 300 silicone heater pads)
