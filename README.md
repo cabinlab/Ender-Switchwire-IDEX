@@ -18,7 +18,7 @@ Conversion of Ender 3 Pro/V2 to a Customized Voron Switchwire. Since most of the
 * Economy of filament for upgrade parts > Voron branding (delete Voron grills)
 * Toolhead weight reducion > Voron aesthetics (No Stealth/Afterburner. Adapt 
 
-##Design by boubounokefalos prior to modifications and IDEX
+## Design by boubounokefalos ***prior to modifications and IDEX***
 ![Home](Images/non_enclosed.png)
 ![Home](Images/real.png)
 
