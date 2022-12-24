@@ -23,7 +23,7 @@ Conversion of Ender 3 Pro/V2 to a Customized Voron Switchwire. Since most of the
 
 ## Major Changes
 * Increase print bed to 400mm x 600mm (using two 400 x 300 silicone heater pads)
-* Increase Y stability by replacing 3030 (Switchwire) and 4040 (Ender) Y-axis with OpenBuilds 4080 C-Beam
+* Increase Y stability by replacing 3030 (Switchwire) and 4040 (Ender) Y-axis with [OpenBuilds 4080 C-Beam](https://openbuildspartstore.com/c-beam-linear-rail/?ref=FtYWRiPbnawz9w)
 * Upgrade Y motion speed and accuracy with Nema23 or dual Nema17 and closed loop board(s)
 * Delete milled 4040 Center Beam of Ender base and replace with Front and Rear Crossbeam (2020 or 2040)
 
