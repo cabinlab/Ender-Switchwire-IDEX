@@ -7,7 +7,7 @@ Conversion of Ender 3 Pro/V2 to a Customized Voron Switchwire. Since most of the
 ## Adapted from laudable the work of:
 * [Triano's original Ender to Switchwire conversion](https://github.com/walttriano/VoronUsers/tree/master/printer_mods/Triano/Ender_3Pro_Switchwire)
 * [boubounokefalos update of Triano's design](https://github.com/boubounokefalos/Ender_SW)
-* [ankur2k6 IDEX mod](https://github.com/ankurv2k6/voron_idex_switchwire)
+* [ankurv IDEX mod](https://github.com/ankurv2k6/voron_idex_switchwire)
 * [VOV0 by Mamish](https://github.com/Mamsih/VOV0-toolhead-voron-Zero) which is adapted from [HextrudORT by MirageC](https://miragec79.github.io/HextrudORT/)
 
 ## Redesign Goals + Use-Case Considerations
@@ -34,7 +34,9 @@ Conversion of Ender 3 Pro/V2 to a Customized Voron Switchwire. Since most of the
 
 ## IDEX Notes
 ***Status: WIP to assess adapted kinematics between Dual Markforged, haqXY, coreXYU, etc.***
-ankurv2k6 has a very cool functional IDEX build, and has done a great job of providing the necessary STL files in the IDEX mod repository. At the time of this writing, there are no images or instructions for assembling the modified XZ, gantry, IDEX, et cetera.
+Discussion of (IDEX Kinematics)[https://bench.cabinlab.io/t/adapting-corexy-kinematics-to-corexz-for-switchwire-idex/70] at the Cabinlab Test Bench
+
+
 
 ## Info
 
